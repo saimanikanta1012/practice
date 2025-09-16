@@ -12,9 +12,6 @@ python-practice/
 sql-practice/
 - day1.sql # SQL exercises: Employee table, queries for filtering and grouping
 
-markdown
-Copy code
-
 ## Description
 
 ### python-practice
